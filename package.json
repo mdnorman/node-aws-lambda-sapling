@@ -27,20 +27,20 @@
     "deploy:prod": "serverless deploy --verbose --stage prod"
   },
   "dependencies": {
-    "aws-sdk": "2.1036.0",
+    "aws-sdk": "2.1040.0",
     "aws-xray-sdk-core": "3.3.4",
-    "debug": "4.3.2"
+    "debug": "4.3.3"
   },
   "devDependencies": {
     "@types/aws-lambda": "8.10.85",
     "@types/jest": "27.0.3",
-    "@types/node": "16.11.10",
-    "@typescript-eslint/eslint-plugin": "5.4.0",
-    "@typescript-eslint/parser": "5.4.0",
+    "@types/node": "16.11.11",
+    "@typescript-eslint/eslint-plugin": "5.5.0",
+    "@typescript-eslint/parser": "5.5.0",
     "eslint": "8.3.0",
     "eslint-plugin-import": "2.25.3",
     "eslint-plugin-prettier": "4.0.0",
-    "jest": "27.3.1",
+    "jest": "27.4.2",
     "prettier": "2.5.0",
     "pretty-quick": "3.1.2",
     "serverless": "2.67.0",
