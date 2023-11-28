@@ -100,7 +100,6 @@ package:
     - scripts/**
     - spec/**
     - tmp/**
-    - '**/node_modules/aws-sdk/**'
 
 functions:
   CHANGEME:
