@@ -34,7 +34,7 @@
     }
   },
   "dependencies": {
-    "aws-sdk": "2.1412.0",
+    "aws-sdk": "2.1693.0",
     "aws-xray-sdk-core": "3.5.3",
     "debug": "4.3.6"
   },
